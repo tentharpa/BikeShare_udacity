@@ -29,7 +29,7 @@ This is a project focused on Data Visualization of bike rides from a certain loc
 ## Key Insights / Findings
 - It was interesting to see that majoirty of the bike-share riders were subscribers rather than customers type. The subscibers have an annual pass while the customers have a three day pass.  This would mean that people are using these bikes on a regularly routine basis and for some serious work, not just biking for fun.
 This is complemented by my finding in the univariate plot where we see two distinct plots right at the beginning of office hours and end of the office hours.
-- My visualization depicts the busiest stations in terms of the bike rider, this could help the bikeshare company come up more business applications and also ways to decrese the traffic. 
+- My visualization depicts the busiest stations in terms of the bike rider, this could help the bikeshare company come up more business applications and also ways to decrease the traffic. 
 
 ## Project Data:
 - fordgobike-tripdata.csv
