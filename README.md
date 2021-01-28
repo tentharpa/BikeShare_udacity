@@ -16,4 +16,13 @@ This is a project focused on Data Visualization of bike rides from a certain loc
 - Gender (unknown; male;female)
 - Year of Birth
 
-This project 
+# Project Data:
+- fordgobike-tripdata.csv
+
+# Author:
+- Tenzing Tharpa Bhutia
+
+# Acknowledgement:
+- Udacity example project on diamond
+- Pyhton documentation
+- stackoverflow
