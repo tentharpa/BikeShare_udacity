@@ -16,6 +16,16 @@ This is a project focused on Data Visualization of bike rides from a certain loc
 - Gender (unknown; male;female)
 - Year of Birth
 
+## Univariate Visualization
+- The visualization showed two distinct peaks at the office start and end hour. This tells us that, majority of the bikers are office goers.
+- Another finding showed that "Market St at 10th St" is the busisest location.
+
+## Bivariate VIsualization
+- Here, we found that majority of the riders were male between the age of 30 to 40
+
+## Multivariate Visualization
+- Age and Gender tend to be uniform for all riders around 30 to 40. No significant difference between the male and female.
+
 ## Project Data:
 - fordgobike-tripdata.csv
 
